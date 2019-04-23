@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background-color: rgba( 41, 33, 7, 0.8);
+  font-family: 'Indie Flower', cursive;
+}
+
+.hautdepage {
+  text-align: center;
+  background-color: white;
+  border-radius: 25px;
+  border: 8px solid #dcc314;
+  width: 60vw;
+  margin: auto;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.experience {
+  text-align: left;
+  background-color: #FFF0BC;
+  border-radius: 26px;
+  border: 2px solid #dcc314;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 22% 99% 16% 100% / 69% 86% 80% 76% ;
+  background-size: cover;
+} 
